@@ -7,7 +7,7 @@ public class CubeSphere : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //sdatugyxuzyuy8ikughsaixzujhesdfredf
+        //sdatugyxuzyuy8ikughsaixzujhesdfredfesdxcfdc
     }
 
     // Update is called once per frame
