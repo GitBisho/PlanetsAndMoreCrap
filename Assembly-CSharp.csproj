@@ -58,8 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Movement\CameraControl.cs" />
     <Compile Include="Assets\Scripts\Movement\MoveCamera.cs" />
+    <Compile Include="Assets\Scripts\CubeSphere\TerrainFace.cs" />
     <Compile Include="Assets\Scripts\Movement\Movement.cs" />
-    <Compile Include="Assets\Scripts\CubeSphere\CubeSphere.cs" />
+    <Compile Include="Assets\Scripts\CubeSphere\Planet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
